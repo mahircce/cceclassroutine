@@ -1,2 +1,82 @@
 # cceclassroutine
 lab3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCE Class Routine</title>
+</head>
+<body>
+    <header style="text-align: center;"><b><h1>International Islamic University Chittagong</h1></b><br>
+        <b style="font-size: larger;">Department of Computer and Communication Engineering (CCE)</b></header>
+    <h3 style="text-align: center;"><u style="color: rgb(247, 0, 0);">2nd Semester Male(2M)</u></h3>
+    <p style="text-align: center;"><b><u>Class Room: 303, Academic Building 5, Level 3</u></b></p>
+    
+    <table border="1" cellspacing="0" style="text-align: center;" align="center">
+        <tr style="background-color:#c5e0b3;">
+            <th>Time</th>
+            <th rowspan="2">1<br>10:30-11:00</th>
+            <th rowspan="2">2<br>11:00-12:10</th>
+            <th rowspan="2">3<br>12:10-01:00</th>
+            <th rowspan="2" style="background-color: #ff9f95;">0<br>01:00-01:40</th>
+            <th rowspan="2">4<br>01:40-02:30</th>
+            <th rowspan="2">5<br>02:30-03:20</th>
+            <th rowspan="2">6<br>03:20-04:10</th>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Day</th>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Saturday</th>
+            <td>PHY - 1201<br><b>DSH</b></td>
+            <td>URED - 1201<br><b>FH</b></td>
+            <td>URED - 1201<br><b>FH</b></td>
+            <td rowspan="5" style="background-color: #ff9f95;">Prayer &<br>Lunch Break</td>
+            <td colspan="3">PHY - 1202<br><b>DSH</b></td>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Saturday</th>
+            <td>PHY - 1201<br><b>DSH</b></td>
+            <td>CCE - 1207<br><b>MJH</b></td>
+            <td>CCE - 1207<br><b>MJH</b></td>
+            <tD></tD>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Monday</th>
+            <td>CCE - 1209<br><b>MRH</b></td>
+            <td>CCE - 1209<br><b>MRH</b></td>
+            <td>PHY - 1201<br><b>DSH</b></td>
+            <tD colspan="3">CCE - 1208<br><b>MJH</b></tD>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Tuesday</th>
+            <tD colspan="3">CCE - 1210<br><b>MHK</b></tD>
+            <td>CCE - 1207<br><b>MJH</b></td>
+            <td>CCE - 1209<br><b>MRH</b></td>
+            <td>Math - 1201<br><b>AH</b></td>
+        </tr>
+
+        <tr>
+            <th style="background-color: #c5e0b3;">Wednesday</th>
+            <tD colspan="3">CCE - 1206<br><b>MNH</b></tD>
+            <td></td>
+            <td>Math - 1201<br><b>AH</b></td>
+            <td>Math - 1201<br><b>AH</b></td>
+        </tr>
+
+    </table>
+    <br>
+    
+    <footer align="center">&copy;<a href="https://github.com/mahircce"> <strong>T H MAHIR</strong></a></footer>
+
+    
+</body>
+</html>
